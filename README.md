@@ -1,5 +1,5 @@
 # Business-Insights-360
-[Live Dashboard]().
+[Live Dashboard](https://app.powerbi.com/groups/me/reports/d9da0a69-5abd-411a-9773-20b1e40fc776/ReportSection9275feb00c2e013d8906?experience=power-bi&bookmarkGuid=Bookmark4d8fb184310dede2b27d).
 # Project Overview :
 **AtliQ Hardware**, a leading global provider of computer peripherals, initially experienced success but has faced substantial losses in recent years. This downturn is largely due to their reliance on static Excel reports, which lacked the depth needed for informed decision-making. Consequently, they have engaged a data analytics team to create a dynamic Power BI dashboard. This dashboard serves as a versatile tool, offering insights across departments such as Finance, Sales, Marketing, and Supply Chain.
 # Dashboard Requirements :
@@ -113,8 +113,9 @@ Big news! AtliQ Hardware's Power BI dashboard is now operational. With our skill
 • Consumer.
 # Performance Optimization :
 We optimized the dashboard's performance using DAX Studio, resulting 30 % decrease in file size and faster loading of data. This optimization ensures a seamless experience when exploring data and visualizations.
+
 # Live Dashboard
-1 Explore the [Live dashboards]()
+1 Explore the [Live dashboards](https://app.powerbi.com/groups/me/reports/d9da0a69-5abd-411a-9773-20b1e40fc776/ReportSection9275feb00c2e013d8906?experience=power-bi&bookmarkGuid=Bookmark4d8fb184310dede2b27d)
 
 2 Open the link above to access the interactive dashboards.
 
