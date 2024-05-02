@@ -120,3 +120,4 @@ We optimized the dashboard's performance using DAX Studio, resulting 30 % decrea
 2 Open the link above to access the interactive dashboards.
 
 3 Use the toggle buttons and bookmarks for seamless navigation between views.
+ **Presentation Video** :  https://lnkd.in/ddQd2Sqw
